@@ -1,3 +1,4 @@
+//Second Leargest in an array
 class Solution {
     public int getSecondLargest(int[] arr) {
         int n = arr.length;
