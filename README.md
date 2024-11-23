@@ -9,7 +9,7 @@ This repository tracks my journey of
 solving handpicked GeeksforGeeks problems daily.
 Each solution is uploaded after careful analysis and testing.
 
-                                  Daily Workflow ⏳
+                                                                Daily Workflow ⏳
 Solve the handpicked problem on GeeksforGeeks.
 Test the solution with different edge cases.
 Upload the solution here with a detailed explanation in the comments.
