@@ -1,8 +1,8 @@
                         #GeeksforGeeks 160 Days of Coding Challenge
                  #Welcome to my GeeksforGeeks 160 Days of Coding repository! 🚀
 
-##GeeksforGeeks Daily Problem Solving 💻
-##Overview
+#GeeksforGeeks Daily Problem Solving 💻
+#Overview
 This repository tracks my journey of
 solving handpicked GeeksforGeeks problems daily.
 Each solution is uploaded after careful analysis and testing.
